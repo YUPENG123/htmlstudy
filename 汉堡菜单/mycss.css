@@ -20,7 +20,7 @@ body
   font-family: "Avenir Next", "Avenir", sans-serif;
 }
 
-/*#menuToggle
+#menuToggle
 {
   display: block;
   position: relative;
@@ -31,7 +31,7 @@ body
   
   -webkit-user-select: none;
   user-select: none;
-}*/
+}
 
 #menuToggle a
 {
