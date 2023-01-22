@@ -19,7 +19,7 @@
    font-family: "Avenir Next", "Avenir", sans-serif;
  }
 
- #menuToggle {
+ /*#menuToggle {
    display: block;
    position: relative;
    top: 50px;
@@ -40,7 +40,7 @@
 
  #menuToggle a:hover {
    color: tomato;
- }
+ }*/
 
 
  #menuToggle input {
@@ -64,7 +64,7 @@
  /*
  * Just a quick hamburger
  */
- #menuToggle span {
+ /*#menuToggle span {
    display: block;
    width: 33px;
    height: 4px;
@@ -89,7 +89,7 @@
 
  #menuToggle span:nth-last-child(2) {
    transform-origin: 0% 100%;
- }
+ }*/
 
  /* 
  * Transform all the slices of hamburger
