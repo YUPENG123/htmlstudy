@@ -33,4 +33,5 @@ jobs:
           git add .
           git commit -m "generated"
           git push
-          git reset --hard 
+          git reset --hard 859fcc
+          git push
