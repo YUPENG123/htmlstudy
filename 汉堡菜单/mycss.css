@@ -35,7 +35,8 @@
    text-decoration: none;
    color: #232323;
 
-   transition: color 0.3s ease;
+   /* transition: color 0.3s ease; */
+   transition: color 3s ease;
  }
 
  #menuToggle a:hover {
